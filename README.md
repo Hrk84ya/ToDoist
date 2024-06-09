@@ -48,7 +48,13 @@ Welcome to the Task Manager App, where you can efficiently organize your tasks a
 * To delete a task, click the delete button next to it.
 
 ## Contributing
-Contributions are welcome! If you find any issues, have suggestions, or want to enhance the app, feel free to:
+Contributions to this repository are welcome! If you have a code sample or topic you'd like to contribute, please follow these steps:
 
-* Open an issue.
-* Submit a pull request.
+- Fork the repository
+- Create a new branch (git checkout -b feature/new-topic)
+- Make your changes
+- Commit your changes (git commit -am 'Add new topic')
+- Push to the branch (git push origin feature/new-topic)
+- Create a new Pull Request
+
+Please ensure your code adheres to the repository's coding standards and includes appropriate documentation/comments.
